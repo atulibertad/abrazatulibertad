@@ -1,0 +1,1155 @@
+
+---Downloaded files---
+The import files for: eCademy Demo Data were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/abraza
+Data file = C:\xampp\htdocs\abraza/wp-content/themes/ecademy//lib/demo-data/ecademy-demo.xml
+Widget file = C:\xampp\htdocs\abraza/wp-content/themes/ecademy//lib/demo-data/ecademy-widgets.json
+Customizer file = C:\xampp\htdocs\abraza/wp-content/themes/ecademy//lib/demo-data/ecademy-export.dat
+Redux files:
+ecademy_opt -> C:\xampp\htdocs\abraza/wp-content/themes/ecademy//lib/demo-data/redux-options.json 
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+[WARNING] Failed to import "Preview Course": Invalid post type lp_course
+[WARNING] Failed to import "Preview Course": Invalid post type lp_course
+[WARNING] Failed to import "eCademy Professional certificate": Invalid post type lp_cert
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar course_category Animation
+[WARNING] Fallo al importar product_cat Book
+[WARNING] Fallo al importar product_tag Book
+[WARNING] Fallo al importar product_cat Business
+[WARNING] Fallo al importar course_tag Data Analytics
+[WARNING] Fallo al importar course_category Data Science
+[WARNING] Fallo al importar course_category Development
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar course_category Health Coaching
+[WARNING] Fallo al importar course_tag Health Coaching
+[WARNING] Fallo al importar course_category IT &amp; Software
+[WARNING] Fallo al importar course_category Kindergarten
+[WARNING] Fallo al importar course_tag Kindergarten
+[WARNING] Fallo al importar course_category Lifestyle
+[WARNING] Fallo al importar course_category Machine Learning
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar course_category Photo &amp; Flim
+[WARNING] Fallo al importar course_category Project Management
+[WARNING] Fallo al importar course_tag Python
+[WARNING] Fallo al importar course_category Python
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar course_category UX/UI
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar course_category Web Development
+[WARNING] Fallo al importar course_tag Web Development
+[WARNING] Fallo al importar course_category Writing
+[WARNING] Failed to import "Preview Course": Invalid post type lp_course
+[WARNING] Failed to import "Preview Course": Invalid post type lp_course
+[WARNING] Failed to import "eCademy Professional certificate": Invalid post type lp_cert
+[WARNING] Failed to import "Node.js for Beginners: Go From Zero to Hero with Node.js | eCademy": Invalid post type lp_course
+[WARNING] Failed to import "Introduction": Invalid post type lp_lesson
+[WARNING] Failed to import "Packaging": Invalid post type lp_lesson
+[WARNING] Failed to import "Machine Learning A-Z™: Hands-On Python & R In Data Science": Invalid post type lp_course
+[WARNING] Failed to import "The Data Science Course 2020: Complete Data Science": Invalid post type lp_course
+[WARNING] Failed to import "Java Programming Masterclass for Software Developers": Invalid post type lp_course
+[WARNING] Failed to import "Deep Learning a-z™: Hands-on Artificial Neural Networks": Invalid post type lp_course
+[WARNING] Failed to import "Learning A-Z™: Hands-On Python In Data Science": Invalid post type lp_course
+[WARNING] Failed to import "Oracle SQL Developer : Essentials, Tips and Tricks": Invalid post type lp_course
+[WARNING] Failed to import "Python Django Web Development: To-Do App": Invalid post type lp_course
+[WARNING] Failed to import "Environment Setup": Invalid post type lp_lesson
+[WARNING] Failed to import "Utility Modules": Invalid post type lp_lesson
+[WARNING] Failed to import "New Course": Invalid post type lp_course
+[WARNING] Failed to import "Internationally Accredited Diploma Certificate": Invalid post type lp_course
+[WARNING] Failed to import "Nutrition Certification Diet & Meal Panning": Invalid post type lp_course
+[WARNING] Failed to import "Diet And Nutrition Coach Certification": Invalid post type lp_course
+[WARNING] Failed to import "The unit circle definition of sine, and cosine": Invalid post type lp_course
+[WARNING] Failed to import "Thinking about multi variable functions": Invalid post type lp_course
+[WARNING] Failed to import "Equivalent fractions and comparing fractions": Invalid post type lp_course
+[WARNING] Failed to import "Arithmetic patterns and problem solving": Invalid post type lp_course
+[WARNING] Failed to import "Order on Friday 8th May 2020 05:12:04 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 8th May 2020 05:12:19 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 8th May 2020 05:12:23 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:23:39 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:23:43 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:23:45 AM": Invalid post type lp_order
+[WARNING] Failed to import "Express Framework": Invalid post type lp_lesson
+[WARNING] Failed to import "Web Module": Invalid post type lp_lesson
+[WARNING] Failed to import "Video Introduction": Invalid post type lp_lesson
+[WARNING] Failed to import "Web Module": Invalid post type lp_lesson
+[WARNING] Failed to import "Hola": Invalid post type lp_lesson
+[WARNING] Failed to import "Order on Monday 25th May 2020 11:15:38 AM": Invalid post type lp_order
+[WARNING] Failed to import "30 Menites": Invalid post type lp_lesson
+[WARNING] Failed to import "Satu": Invalid post type lp_lesson
+[WARNING] Failed to import "OK": Invalid post type lp_lesson
+[WARNING] Failed to import "Zoom Meeting": Invalid post type lp_lesson
+[WARNING] Failed to import "Order on Sunday 14th June 2020 06:29:58 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Monday 22nd June 2020 10:21:33 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 23rd June 2020 07:54:43 PM": Invalid post type lp_order
+[WARNING] Failed to import "Test": Invalid post type lp_lesson
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:24:37 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:27:04 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:27:06 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:27:08 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:27:10 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:27:12 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:27:14 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:27:16 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:27:19 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:28:12 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:28:17 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:28:19 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:28:20 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:28:22 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:28:23 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:28:25 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:28:27 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 21st May 2020 08:24:30 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 23rd May 2020 08:41:19 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 3rd June 2020 08:31:36 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 4th June 2020 01:09:30 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 4th June 2020 05:18:43 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 4th June 2020 12:48:37 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 4th June 2020 10:35:12 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 5th June 2020 06:43:09 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Monday 8th June 2020 01:43:22 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 9th June 2020 07:23:52 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 9th June 2020 09:06:58 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 9th June 2020 12:46:50 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 10th June 2020 06:22:26 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 10th June 2020 06:37:41 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 10th June 2020 09:38:48 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 12th June 2020 01:06:17 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 13th June 2020 07:16:02 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 13th June 2020 07:36:12 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 13th June 2020 08:26:34 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Monday 15th June 2020 01:59:13 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 16th June 2020 04:03:17 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 19th June 2020 09:49:32 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 19th June 2020 12:37:20 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 9th May 2020 05:07:57 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 13th May 2020 10:23:33 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 21st May 2020 07:23:50 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 22nd May 2020 04:16:40 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 23rd May 2020 05:36:47 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 23rd May 2020 08:09:54 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 19th June 2020 04:35:59 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 19th June 2020 08:23:19 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Monday 22nd June 2020 07:37:30 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 23rd June 2020 07:37:29 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 23rd June 2020 07:49:55 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 23rd June 2020 07:52:21 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 24th June 2020 05:08:14 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 25th June 2020 05:40:04 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 26th June 2020 02:14:34 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 26th June 2020 02:38:04 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 26th June 2020 09:26:09 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 27th June 2020 02:11:50 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Sunday 28th June 2020 06:49:31 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 1st July 2020 02:15:16 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Sunday 24th May 2020 10:40:23 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Monday 25th May 2020 08:00:03 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 26th May 2020 12:18:18 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 27th May 2020 01:50:19 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 29th May 2020 02:39:40 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 30th May 2020 07:32:11 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 4th June 2020 04:45:18 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 6th June 2020 08:09:11 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Monday 8th June 2020 08:40:21 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Monday 8th June 2020 01:44:05 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Monday 8th June 2020 03:27:16 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Tuesday 9th June 2020 11:50:13 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 10th June 2020 12:46:56 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 10th June 2020 01:04:10 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 10th June 2020 06:34:10 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 10th June 2020 06:35:28 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 10th June 2020 06:41:09 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 11th June 2020 10:53:27 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 12th June 2020 08:08:33 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Friday 12th June 2020 10:13:34 AM": Invalid post type lp_order
+[WARNING] Failed to import "Quiz One": Invalid post type lp_quiz
+[WARNING] Failed to import "Which one is the first search engine in internet": Invalid post type lp_question
+[WARNING] Failed to import "Number of bit used by the IPv6 address": Invalid post type lp_question
+[WARNING] Failed to import "Firewall in computer is used for authentication?": Invalid post type lp_question
+[WARNING] Failed to import "A dual layer Blue-ray Disc can store data upto 50 GB?": Invalid post type lp_question
+[WARNING] Failed to import "Order on Saturday 13th June 2020 10:07:48 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 13th June 2020 03:40:29 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Saturday 13th June 2020 07:37:29 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Sunday 14th June 2020 12:04:40 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Monday 15th June 2020 01:56:56 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Wednesday 17th June 2020 02:20:49 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 18th June 2020 05:31:51 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 18th June 2020 11:16:05 AM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Thursday 18th June 2020 06:37:04 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Sunday 28th June 2020 06:43:25 PM": Invalid post type lp_order
+[WARNING] Failed to import "Order on Sunday 28th June 2020 06:47:14 PM": Invalid post type lp_order
+[WARNING] Failed to import "Book Cover Softcover": Invalid post type product
+[WARNING] Failed to import "Motivational Book Cover": Invalid post type product
+[WARNING] Failed to import "Note Book Mockup": Invalid post type product
+[WARNING] Failed to import "Real Life Fairytale": Invalid post type product
+[WARNING] Failed to import "Red Side Book": Invalid post type product
+[WARNING] Failed to import "Running From Me": Invalid post type product
+[WARNING] Failed to import "Stop and Take a Second": Invalid post type product
+[WARNING] Failed to import "Order – June 23, 2020 @ 07:54 PM": Invalid post type shop_order
+[WARNING] Failed to import "Order – June 24, 2020 @ 05:08 AM": Invalid post type shop_order
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Buscar - No Title - Widget already exists
+eCademy Recent Posts With Image - Recent posts - Imported
+Nube de etiquetas - No Title - Imported
+Categorías - No Title - Imported
+Galería - Gallery - Imported
+
+Footer Widgets : 
+
+Menú de navegación - Explore - Imported
+Menú de navegación - Resources - Imported
+eCademy Contact Info - Address - Imported
+
+Page Widget : 
+
+Menú de navegación - No Title - Imported
+Nube de etiquetas - Popular Tags - Imported
+Galería - Gallery - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: ecademy_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

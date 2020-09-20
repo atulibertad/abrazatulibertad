@@ -1,2 +1,0 @@
-# abrazatulibertad
-abrazatulibertad

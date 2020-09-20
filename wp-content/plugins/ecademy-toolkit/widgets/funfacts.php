@@ -1,0 +1,236 @@
+<?php
+/**
+ * Funfacts Widget
+ */
+
+namespace Elementor;
+
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
+class eCademy_Funfacts extends Widget_Base {
+
+	public function get_name() {
+        return 'eCademy_Funfacts';
+    }
+
+	public function get_title() {
+        return __( 'Funfacts', 'ecademy-toolkit' );
+    }
+
+	public function get_icon() {
+        return 'eicon-counter';
+    }
+
+	public function get_categories() {
+        return [ 'ecademy-elements' ];
+    }
+
+	protected function _register_controls() {
+
+        $this->start_controls_section(
+			'funfacts_section',
+			[
+				'label' => __( 'Funfacts Control', 'ecademy-toolkit' ),
+				'tab' => Controls_Manager::TAB_CONTENT,
+			]
+		);
+			$this->add_control(
+				'funfacts_style',
+				[
+					'label' => __( 'Style', 'ecademy-toolkit' ),
+					'type' => Controls_Manager::SELECT,
+					'options' => [
+						'1'         => __( 'Style One', 'ecademy-toolkit' ),
+						'2'         => __( 'Style Two', 'ecademy-toolkit' ),
+						'3'         => __( 'Style Three', 'ecademy-toolkit' ),
+					],
+					'default' => '1',
+				]
+			);
+
+			$this->add_control(
+                'number_bg',
+                [
+                    'label' => esc_html__( 'Number Background Shape Image', 'ecademy-toolkit' ),
+                    'type' => Controls_Manager::MEDIA,
+                    'condition' => [
+                        'funfacts_style' => '3',
+                    ]
+                ]
+            );
+
+            $this->add_control(
+                'items',
+                [
+                    'type'    => Controls_Manager::REPEATER,
+                    'label'   => esc_html__( 'Add Counter Item', 'ecademy-toolkit' ),			                 
+                    'fields'  => array(	
+                        array(
+                            'type'    => Controls_Manager::NUMBER,
+                            'name'    => 'number',
+                            'label'   => esc_html__( 'Ending Number', 'ecademy-toolkit' ),
+                            'default' => 1926,
+                        ),		
+                        array(
+                            'type'    => Controls_Manager::TEXT,
+                            'name'    => 'title',
+                            'label'   => esc_html__( 'Title', 'ecademy-toolkit' ),
+                            'default' => esc_html__('Finished Sessions', 'ecademy-toolkit'),
+						),
+						array(
+                            'type'    => Controls_Manager::TEXT,
+                            'name'    => 'number_suffix',
+                            'label'   => esc_html__( 'Number Suffix', 'ecademy-toolkit' ),
+                        ),
+                    ),	
+                ]			
+            );
+
+        $this->end_controls_section();
+
+        $this->start_controls_section(
+			'counter_style',
+			[
+				'label' => __( 'Style', 'ecademy-toolkit' ),
+				'tab' => Controls_Manager::TAB_STYLE,
+			]
+		);
+		
+			$this->add_control(
+				'bg_color',
+				[
+					'label' => __( 'Background Color', 'ecademy-toolkit' ),
+					'type' => Controls_Manager::COLOR,
+					'selectors' => [
+						'{{WRAPPER}} .funfacts-list, .funfacts-area.bg-f5f7fa, .funfacts-area-two' => 'background-color: {{VALUE}}',
+					],
+				]
+			);
+
+            $this->add_control(
+                'counter_color',
+                [
+                    'label' => __( 'Number Color', 'ecademy-toolkit' ),
+                    'type' => Controls_Manager::COLOR,
+                    'selectors' => [
+                        '{{WRAPPER}} .single-funfacts-box h3, .single-funfacts-item h3, .single-funfacts h3' => 'color: {{VALUE}}',
+                    ],
+                ]
+            );
+
+            $this->add_responsive_control(
+				'number_size',
+				[
+					'label' => __( 'Number Font Size', 'ecademy-toolkit' ),
+					'type' => Controls_Manager::SLIDER,
+					'size_units' => [ 'px' ],
+					'range' => [
+						'px' => [
+							'min' => 1,
+							'max' => 70,
+							'step' => 1,
+						],
+					],
+					'devices' => [ 'desktop', 'tablet', 'mobile' ],
+					'selectors' => [
+						'{{WRAPPER}} .single-funfacts-box h3, .single-funfacts-item h3, .single-funfacts h3' => 'font-size: {{SIZE}}px;',
+					],
+				]
+			);
+
+            $this->add_control(
+				'title_color',
+				[
+					'label' => __( 'Title Color', 'ecademy-toolkit' ),
+					'type' => Controls_Manager::COLOR,
+					'selectors' => [
+						'{{WRAPPER}} .single-funfacts-box p, .single-funfacts-item p, .single-funfacts p' => 'color: {{VALUE}}',
+					],
+				]
+			);
+
+			$this->add_responsive_control(
+				'title_size',
+				[
+					'label' => __( 'Title Font Size', 'ecademy-toolkit' ),
+					'type' => Controls_Manager::SLIDER,
+					'size_units' => [ 'px' ],
+					'range' => [
+						'px' => [
+							'min' => 1,
+							'max' => 70,
+							'step' => 1,
+						],
+					],
+					'devices' => [ 'desktop', 'tablet', 'mobile' ],
+					'selectors' => [
+						'{{WRAPPER}} .single-funfacts-box p, .single-funfacts-item p, .single-funfacts p' => 'font-size: {{SIZE}}px;',
+					],
+				]
+			);
+
+        $this->end_controls_section();
+    }
+
+	protected function render() {
+        $settings = $this->get_settings_for_display();
+        
+        ?>
+		<?php if( $settings['funfacts_style'] == '1' ): ?>
+            <div class="funfacts-list">
+                <div class="row">
+                    <?php foreach( $settings['items'] as $item ): ?>
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <div class="single-funfacts-box">
+								<h3><span class="odometer" data-count="<?php echo esc_attr( $item['number'] ); ?>">00</span><?php echo esc_html( $item['number_suffix'] ); ?></h3>
+                                <p><?php echo esc_html( $item['title'] ); ?></p>
+                            </div>
+                        </div>
+                    <?php endforeach; ?>
+                </div>
+            </div>
+			<?php elseif( $settings['funfacts_style'] == '2' ): ?>
+				<div class="funfacts-area bg-f5f7fa">
+					<div class="container">
+						<div class="row">
+                    		<?php foreach( $settings['items'] as $item ): ?>
+								<div class="col-lg-3 col-md-3 col-sm-6">
+									<div class="single-funfacts-item">
+										<h3><span class="odometer" data-count="<?php echo esc_attr( $item['number'] ); ?>">00</span><?php echo esc_html( $item['number_suffix'] ); ?></h3>
+										<p><?php echo esc_html( $item['title'] ); ?></p>
+									</div>
+								</div>
+                    		<?php endforeach; ?>
+						</div>
+					</div>
+				</div>
+			
+			<?php elseif( $settings['funfacts_style'] == '3' ): ?>
+				<div class="funfacts-area-two">
+					<div class="container">
+						<div class="row">
+                    		<?php foreach( $settings['items'] as $item ): ?>
+								<div class="col-lg-3 col-md-3 col-sm-6">
+									<div class="single-funfacts">
+										<?php if( $settings['number_bg']['url'] != '' ): ?>
+											<img src="<?php echo esc_url( $settings['number_bg']['url'] ); ?>" alt="<?php echo esc_attr__( 'Number Background' ); ?>">
+										<?php endif; ?>
+										<h3><span class="odometer" data-count="<?php echo esc_attr( $item['number'] ); ?>">00</span><?php echo esc_html( $item['number_suffix'] ); ?></h3>
+										<p><?php echo esc_html( $item['title'] ); ?></p>
+									</div>
+								</div>
+                    		<?php endforeach; ?>
+						</div>
+					</div>
+				</div>
+			<?php endif; ?>
+        <?php
+	}
+	protected function _content_template() {}
+
+}
+
+Plugin::instance()->widgets_manager->register_widget_type( new eCademy_Funfacts );

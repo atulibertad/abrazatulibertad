@@ -1,0 +1,264 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: eCademy Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-01 20:42+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_attr_e;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: acf-rgba-color-picker\n"
+"X-Poedit-SearchPathExcluded-1: redux\n"
+
+#: ecademy-toolkit.php:452
+msgid "Reviews"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/advanced-settings.php:11
+msgid "Price"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/advanced-settings.php:15
+msgid ""
+"The price of this certificate. Default is 0, means this certificate is free "
+"to download. Currency is what you chose in Learn Press settings."
+msgstr ""
+
+#: inc/certificates/inc/admin/views/cert-editor.php:21
+msgid "Publish certificate before editing!"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/course-certificates.php:55
+msgid "Active:"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/course-certificates.php:62
+msgid "Remove"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/course-certificates.php:66
+msgid "Assign"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/course-certificates.php:71
+#: inc/content-drip/inc/admin/views/drip-items.php:30
+msgid "Edit"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/course-certificates.php:83
+msgid "Add new Certificate"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/editor-layer-options.php:18
+msgid "Delete layer"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/editor-layer-options.php:33
+msgid "Center"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/editor-layer-options.php:35
+msgid "Center Horizontal"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/editor-layer-options.php:37
+msgid "Center Vertical"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/editor-no-template.php:2
+msgid "No template selected."
+msgstr ""
+
+#: inc/certificates/inc/admin/views/editor-no-template.php:3
+msgid "Select Template"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/editor-no-template.php:4
+msgid "to starts design your favorite certificate now"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/editor-toolbar.php:12
+msgid "Choose background image"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/layer-options/font.php:17
+msgid "System fonts"
+msgstr ""
+
+#: inc/certificates/inc/admin/views/layer-options/font.php:22
+msgid "Google fonts"
+msgstr ""
+
+#: inc/certificates/inc/class-lp-certificate-post-type.php:355
+msgid "-"
+msgstr ""
+
+#: inc/certificates/inc/class-lp-certificate-post-type.php:383
+msgid "Unassigned"
+msgstr ""
+
+#: inc/certificates/templates/buttons.php:33
+msgid "Download Certificate"
+msgstr ""
+
+#: inc/certificates/templates/buttons.php:34
+msgid "Print Certificate"
+msgstr ""
+
+#: inc/certificates/templates/list-certificates.php:17
+msgid "Certificates"
+msgstr ""
+
+#: inc/certificates/templates/popup.php:22
+msgid "Click or press ESC to close."
+msgstr ""
+
+#: inc/certificates/templates/single-certificate.php:28
+msgid " &rsaquo; "
+msgstr ""
+
+#: inc/certificates/templates/view-button.php:23
+msgid "Certificate"
+msgstr ""
+
+#: inc/content-drip/inc/admin/class-drip-items-list-table.php:50
+msgid "Start"
+msgstr ""
+
+#: inc/content-drip/inc/admin/class-drip-items-list-table.php:54
+msgid "Step"
+msgstr ""
+
+#: inc/content-drip/inc/admin/class-drip-items-list-table.php:58
+msgid "Type"
+msgstr ""
+
+#: inc/content-drip/inc/admin/class-drip-items-list-table.php:68
+msgid "Apply"
+msgstr ""
+
+#: inc/content-drip/inc/admin/class-drip-items-list-table.php:70
+msgid "Close"
+msgstr ""
+
+#: inc/content-drip/inc/admin/class-drip-items-list-table.php:127
+msgid "Update"
+msgstr ""
+
+#: inc/content-drip/inc/admin/class-drip-items-list-table.php:129
+msgid "Reset"
+msgstr ""
+
+#: inc/content-drip/inc/admin/views/drip-items.php:14
+msgid "Invalid course"
+msgstr ""
+
+#: inc/content-drip/inc/admin/views/drip-items.php:25
+msgid "Drip items"
+msgstr ""
+
+#: inc/content-drip/inc/admin/views/drip-items.php:27
+msgid "Course:"
+msgstr ""
+
+#: inc/widgets.php:94 inc/widgets.php:213
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:99
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:103
+msgid "Mode:"
+msgstr ""
+
+#: inc/widgets.php:105
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:106
+msgid "Random Posts"
+msgstr ""
+
+#: inc/widgets.php:108
+msgid "Post views"
+msgstr ""
+
+#: inc/widgets.php:220
+msgid "Location:"
+msgstr ""
+
+#: inc/widgets.php:227
+msgid "Location Link:"
+msgstr ""
+
+#: inc/widgets.php:234
+msgid "Phone Number:"
+msgstr ""
+
+#: inc/widgets.php:241
+msgid "Number Link:"
+msgstr ""
+
+#: inc/widgets.php:248
+msgid "Email:"
+msgstr ""
+
+#: inc/widgets.php:255
+msgid "Email Link:"
+msgstr ""
+
+#: inc/widgets.php:262
+msgid "Fax:"
+msgstr ""
+
+#: inc/widgets.php:269
+msgid "Fax Link:"
+msgstr ""
+
+#: inc/widgets.php:275
+msgid "Display social icons"
+msgstr ""
+
+#: widgets/courses-filter.php:211
+msgid "rating"
+msgstr ""
+
+#: widgets/distance-learning.php:551 widgets/distance-learning.php:554
+#: widgets/distance-learning.php:558
+msgid "About Us"
+msgstr ""
+
+#: widgets/distance-learning.php:600 widgets/distance-learning.php:603
+#: widgets/experience-area.php:451 widgets/experience-area.php:486
+#: widgets/experience-area.php:489 widgets/newsletter.php:676
+#: widgets/newsletter.php:680 widgets/newsletter.php:755
+#: widgets/newsletter.php:759 widgets/program-area.php:435
+#: widgets/program-area.php:472
+msgid "Shape Image"
+msgstr ""
+
+#: widgets/health-coaching-hero.php:452
+msgid "Signature Image"
+msgstr ""
+
+#: widgets/health-coaching-hero.php:463 widgets/health-coaching-hero.php:468
+#: widgets/health-coaching-hero.php:473 widgets/health-coaching-hero.php:478
+#: widgets/health-coaching-hero.php:483 widgets/health-coaching-hero.php:488
+#: widgets/health-coaching-hero.php:493
+msgid "shape image"
+msgstr ""
+
+#: widgets/services-area.php:334
+msgid "Box Shape"
+msgstr ""
